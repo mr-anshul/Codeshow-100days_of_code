@@ -1,5 +1,5 @@
 GOALS:
 (1)CP
 (2)DSA
-(3)Machine Learning
+(3)Data Science
 
