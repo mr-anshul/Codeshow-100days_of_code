@@ -1,3 +1,5 @@
 GOALS:
 (1)CP
-(2)DSA 
+(2)DSA
+(3)Machine Learning
+
